@@ -3,6 +3,7 @@ Repositório destinado ao projeto de PDWEL
 
 Equipe: 
 Rubens Henrique do Nascimento Lotufo - SP3024121
+
 Vinicius dos Santos Rufino - SP301570X
 
 Instruções de deployment:
